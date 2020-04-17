@@ -1,0 +1,2 @@
+# FigureBed
+Used for blogs
